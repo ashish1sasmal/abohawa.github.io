@@ -18,6 +18,6 @@ Arey Deewano Mujhe Pehchano | [Link](https://tabs.ultimate-guitar.com/tab/mohit-
 Song          | Chords       | Other Links
 ------------- | -------------|-------------
 Main Hu Don(2006) | [Link](https://www.indianguitartabs.com/chords/threads/sub-chords-for-main-hoon-don-from-the-movie-don.26043/) | [Song](https://www.youtube.com/watch?v=NZAi6QTNZtE)
-Koi Kahe kehta Rahe | [Link](https://tabs.ultimate-guitar.com/tab/shankar-ehsaan-loy/koi-kahe-kehta-rahe-chords-1867191) | [Song](https://youtu.be/ctJI7pCbxAo?si=p98ltLlD0aIucsqn&t=16)
+Koi Kahe kehta Rahe | [Link](https://github.com/ashish1sasmal/abohawa.github.io/blob/main/Koi%20kahe%20kehta%20rahe.pdf) | [Song](https://youtu.be/ctJI7pCbxAo?si=p98ltLlD0aIucsqn&t=16)
 Kya Mujhe Pyar Hai | [Link](https://tabs.ultimate-guitar.com/tab/misc-soundtrack/woh-lamhe-kya-mujhe-pyaar-hai-chords-1997153) | [Song](https://www.youtube.com/watch?v=Gg6NMU4ivXM)
 Dus Bahane | [Link](https://www.bajaoguitars.com/2012/06/dus-bhane-title-dus-guitar-chords.html) Incomplete | [Song](https://www.youtube.com/watch?v=qE3DfF66DNA)
